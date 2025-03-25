@@ -2,7 +2,7 @@ let movies = [
     {
         name: 'Sita Ramam',
         des: 'On a letter-delivering task, Afreen learns of a 20-year-old romance set amidst a war. Her quest to trace the lovers makes her embrace humanity beyond borders.',
-        image: 'shows/slide/sitaramam slide.jpeg'
+        image: 'shows\slide\sitaramam slide.jpeg'
     },
     {
         name: 'Avengers Endgame',
